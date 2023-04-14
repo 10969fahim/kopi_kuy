@@ -1,0 +1,62 @@
+{
+    "espresso": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Iced Caramel Macchiato",
+            "size": "Tall",
+            "harga": "$3.95",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "White Chocolate Mocha",
+            "size": "Tall",
+            "harga": "$3.95",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Caffe Mocha",
+            "size": "Tall",
+            "harga": "$3.75",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Caffe Latte",
+            "size": "Tall",
+            "harga": "$3.25",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "teavana": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Shaken Iced Tea",
+            "size": "Tall",
+            "harga": "$1.95",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Classic Chai Tea Latte",
+            "size": "Tall",
+            "harga": "$3.65",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Lightly Sweet Chai Tea Latte",
+            "size": "Tall",
+            "harga": "$3.65",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Iced Matcha Green Tea Latte",
+            "size": "Tall",
+            "harga": "$3.65",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
