@@ -1,10 +1,10 @@
 /* Pengaturan Global */
 
 /* Mendaftarkan font ke dalam CSS, dan memberi nama family */
-@font-face {
+/* @font-face {
    font-family: "Poppins";
    src: url(../fonts/poppins.woff2);
-}
+} */
 
 * {
    box-sizing: border-box;
@@ -19,7 +19,8 @@ html {
 
 body {
    /* mendaftarkan semua teks pada body menjadi family Poppins */
-   font-family: "Poppins";
+   overflow-x: hidden;
+   /* font-family: "Poppins"; */
 }
 
 a {
@@ -400,24 +401,20 @@ terkait layout pada CSS untuk dapat memahami secara penuh
    width: 30%;
    margin-top: 50px;
    /* color mengatur warna tulisan */
-   color: green;
+   color: #333333;
 }
 
 /* FOOTER */
 
 footer {
-   background-color: #198754;
-   padding-top: 15px;
+   background-color: #333333;
+   padding-top: 30px;
    padding-bottom: 15px;
    color: #fff;
    padding-right: 40px;
    padding-left: 40px;
 }
 
-footer .navigasi {
-   margin-left: 20px;
-   margin-right: auto;
-}
 
 @media (max-width:800px) {
 
